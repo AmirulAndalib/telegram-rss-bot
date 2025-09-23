@@ -1,6 +1,6 @@
 # telegram-rss-bot
 
-The project is looking for a maintainer. Let me know in the issues if someone is interested.
+The project is looking for a maintainer. Let me know in the discussions if someone is interested.
 
 ## Introduction
 This is an another telegram bot for usage with RSS feeds.
